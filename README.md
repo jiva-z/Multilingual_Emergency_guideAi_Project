@@ -1,5 +1,5 @@
-# Multilingual_Emergency_guideAi_Project
-다국어 응급상황 인식 및 연계 서비스 
+# 다국어 응급상황 인식 및 연계 서비스 
+Multilingual_Emergency_guideAi_Project
 
 &emsp;
 <kbd>
